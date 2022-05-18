@@ -1,4 +1,4 @@
 import streamlit as st
-import pytorch
+import torch
 
 st.write("Test")
